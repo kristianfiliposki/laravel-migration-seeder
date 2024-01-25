@@ -1,0 +1,3 @@
+<?php
+
+    $dati=["ciao","ok"];
