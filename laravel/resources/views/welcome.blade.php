@@ -10,9 +10,7 @@
     <h1>I TRENI ITALIANI</h1>
     <H2>database</H2>
     <div>
-        @foreach ($dati as $item)
-            {{$item}}
-        @endforeach
+
     </div>
     <a href="cacca">andiamo a vedere i dati</a>
 </body>

@@ -1,3 +1,8 @@
 <?php
 
-    $dati=["ciao","ok"];
+    return 
+
+        $dati=[
+            "nome"=>"fabio",
+            "cognome"=>"bonanno",
+        ];
