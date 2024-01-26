@@ -9,7 +9,13 @@
 <body>
     <div>
         <h1>ecco il data</h1>
-
+        @foreach ($trains as $item)
+        <ul>
+            <li>
+                {{$item->Azienda}}
+            </li>
+        </ul>
+        @endforeach
     </div>
 </body>
 </html>
